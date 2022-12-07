@@ -17,7 +17,8 @@ public class BPproject {
      */
     static WebDriver driver;
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\elena\\Downloads\\chromedriver_win32\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", 
+                "C:\\Users\\elena\\Downloads\\chromedriver_win32\\chromedriver.exe");
         System.out.println("Test initiated");
         driver = new ChromeDriver();
         driver.get("https://www.bancopopular.fi.cr/");
