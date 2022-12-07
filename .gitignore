@@ -24,3 +24,6 @@ hs_err_pid*
 /BPproject/nbproject/private/
 /BPproject/build/
 /BPproject/dist/
+/SeleniumProject/build/
+/SeleniumProject/dist/
+/SeleniumProject/nbproject/private/
